@@ -1,4 +1,4 @@
-</Game-2048>
+# Game-2048
 A window version of the popular game, 2048
 The game includes: 
   - Load & Save features
